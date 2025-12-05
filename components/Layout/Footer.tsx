@@ -9,10 +9,10 @@ export const Footer: React.FC = () => {
           © {new Date().getFullYear()} SAMUEL LOPES. TODOS OS DIREITOS RESERVADOS.
         </p>
         <div className="flex items-center gap-4">
-          <a aria-label="LinkedIn" className="text-text-dark/70 hover:text-primary transition-colors" href="#">
+          {/* <a aria-label="LinkedIn" className="text-text-dark/70 hover:text-primary transition-colors" href="#">
             <Linkedin size={24} />
-          </a>
-          <a aria-label="Instagram" className="text-text-dark/70 hover:text-primary transition-colors" href="#">
+          </a> */}
+          <a aria-label="Instagram" className="text-text-dark/70 hover:text-primary transition-colors" href="https://www.instagram.com/samuellopes">
             <Instagram size={24} />
           </a>
         </div>

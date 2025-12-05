@@ -11,7 +11,7 @@ export const Hero: React.FC = () => {
             SAMUEL <br className="hidden sm:block" />LOPES
           </h1>
           <h2 className="font-mono text-lg text-primary sm:text-xl font-bold">
-            // ARQUITETO | URBANISTA | PROFESSOR
+            // ARQUITETO E DESENVOLVEDOR DE IDEIAS
           </h2>
         </div>
         <p className="text-base leading-relaxed text-text-dark/90 font-display max-w-lg mx-auto md:mx-0">

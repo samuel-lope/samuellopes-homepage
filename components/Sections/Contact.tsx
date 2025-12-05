@@ -20,11 +20,11 @@ export const Contact: React.FC = () => {
             <div className="mt-8 flex flex-col gap-4 font-mono">
               <a className="flex items-center gap-3 text-base hover:text-primary transition-colors group" href="mailto:contato@samuellopes.arq">
                 <Mail className="group-hover:text-primary" size={24} />
-                contato@samuellopes.arq
+                contato@sa.arq.br
               </a>
               <a className="flex items-center gap-3 text-base hover:text-primary transition-colors group" href="tel:+5511999998888">
                 <Phone className="group-hover:text-primary" size={24} />
-                +55 (11) 99999-8888
+                +55 (61) 98313-9393
               </a>
             </div>
           </div>

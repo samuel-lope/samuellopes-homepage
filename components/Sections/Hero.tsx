@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
           </h2>
         </div>
         <p className="text-base leading-relaxed text-text-dark/90 font-display max-w-lg mx-auto md:mx-0">
-          Combinando uma abordagem teórica rigorosa com uma prática inovadora para criar espaços que inspiram e funcionam.
+          No futuro, não muito distante, quem não conseguir transformar ideias em ação em questão de minutos SERÁ ENGOLIDO.
         </p>
         <div className="flex justify-center gap-4 md:justify-start">
           <Button href="#projetos">Ver Projetos</Button>
